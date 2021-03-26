@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 Visualization/static/
+data/train_images/
+data/extracted_features/
